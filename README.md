@@ -30,3 +30,6 @@ Apache Maven을 활용하여 JSP/Servlet와 MySQL 8 그리고 Hibernate 5.4 Fina
 ##### 3. Spring | Tools, https://spring.io/tools, Accessed by 2020-09-20, Last Modified .
 ##### 4. OpenJDK, https://openjdk.java.net/, Accessed by 2020-09-20, Last Modified .
 ##### 5. Database 19C | Oracle 대한민국, https://www.oracle.com/kr/database/technologies/, Accessed by 2020-09-20, Last Modified .
+##### 6. Your relational data. Objectively. - Hibernate ORM, https://hibernate.org/orm/, Accessed by 2020-09-21, Last Modified .
+##### 7. Hibernate ORM 5.4.21.Final User Guide, https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html, Accessed by 2020-09-21, Last Modified 2020-08-27 10:35:21.
+##### 8. Overview (Java SE 15 & JDK 15), https://docs.oracle.com/en/java/javase/15/docs/api/index.html, Accessed by 2020-09-21, Last Modified .
